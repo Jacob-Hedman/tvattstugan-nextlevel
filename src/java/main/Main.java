@@ -9,5 +9,7 @@ public class Main {
         for(TimeSlot timeSlot : calendar.availableSlots()){
             System.out.println(timeSlot.toString());
         }
+        Gui gui = new Gui(calendar);
+        System.out.println(gui.toHtml());
     }
 }
