@@ -4,6 +4,6 @@ public class User {
 
     public String userName;
     public UUID id;
-    public SecurityTabId secutyTabId;
+    public String secutyTabId;
     public String appartment;
 }

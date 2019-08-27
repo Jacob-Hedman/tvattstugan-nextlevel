@@ -1,0 +1,6 @@
+
+ƒ"squid:ClassVariableVisibilityCheck
+"UMake startTime a static final constant or non-public and provide accessors if needed.(³Åû»
+~"squid:ClassVariableVisibilityCheck	"PMake user a static final constant or non-public and provide accessors if needed.(‹³¤²
+†"squid:ClassVariableVisibilityCheck"SMake endTime a static final constant or non-public and provide accessors if needed.(µ “”ùÿÿÿÿ
+\squid:S1858"@"format" returns a string, there's no need to call "toString()".(ÇŠ‰’ÿÿÿÿÿ
